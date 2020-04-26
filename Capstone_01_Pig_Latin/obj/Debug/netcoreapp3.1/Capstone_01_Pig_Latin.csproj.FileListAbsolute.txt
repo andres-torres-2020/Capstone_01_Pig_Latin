@@ -1,0 +1,26 @@
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.csprojAssemblyReference.cache
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.AssemblyInfo.cs
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.exe
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.deps.json
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.runtimeconfig.json
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.runtimeconfig.dev.json
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.dll
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.pdb
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.dll
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.pdb
+C:\Users\andy\source\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\bin\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Capstone_01_Pig_Latin\Capstone_01_Pig_Latin\obj\Debug\netcoreapp3.1\Capstone_01_Pig_Latin.genruntimeconfig.cache
